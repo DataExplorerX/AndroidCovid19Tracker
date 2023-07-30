@@ -1,6 +1,6 @@
 ﻿# COVID-19 Tracker App
 
-![Logo](@drawable/4.jpg)
+![Logo](C:\Users\DELL\AndroidStudioProjects\Covid19Tracker\app\src\debug\assets\4.jpg)
 
 ## Description
 
@@ -17,9 +17,9 @@ COVID-19 Tracker is a mobile application designed to provide real-time tracking 
 
 ## Screenshots
 
-![Screenshot 1](@drawable/1.jpg)
-![Screenshot 2](@drawable/2.jpg)
-![Screenshot 3](@drawable/3.jpg)
+![Screenshot 1](C:\Users\DELL\AndroidStudioProjects\Covid19Tracker\app\src\debug\assets\1.jpg)
+![Screenshot 2](C:\Users\DELL\AndroidStudioProjects\Covid19Tracker\app\src\debug\assets\2.jpg)
+![Screenshot 3](C:\Users\DELL\AndroidStudioProjects\Covid19Tracker\app\src\debug\assets\3.jpg)
 
 ## Installation
 
