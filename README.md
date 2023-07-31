@@ -18,7 +18,9 @@ COVID-19 Tracker is a mobile application designed to provide real-time tracking 
 ## Screenshots
 
 ![Screenshot 1](https://github.com/codingtolife/AndroidCovid19Tracker/blob/main/app/src/debug/assets/1.jpg)
+
 ![Screenshot 2](https://github.com/codingtolife/AndroidCovid19Tracker/blob/main/app/src/debug/assets/2.jpg)
+
 ![Screenshot 3](https://github.com/codingtolife/AndroidCovid19Tracker/blob/main/app/src/debug/assets/3.jpg)
 
 ## Installation
