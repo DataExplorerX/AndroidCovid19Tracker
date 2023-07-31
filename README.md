@@ -38,3 +38,5 @@ The app fetches COVID-19 data from https://corona.lmao.ninja/v2/, which provides
 - Retrofit: 2.9.0
 - Gson: 2.9.0
 
+### Feel free to experiment with the code!!!
+## Happy Android making !
